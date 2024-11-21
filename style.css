@@ -82,8 +82,11 @@ select {
   }
 }
 
-/* Social Link Profile styles */
+h1 {
+  display: none;
+}
 
+/* Social Link Profile styles */
 main {
   font-family: "Inter", serif;
   background: var(--slate-300);
