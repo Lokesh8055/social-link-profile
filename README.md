@@ -1,8 +1,13 @@
-# Frontend Mentor - Social Link Profile solution
+# Frontend Mentor - Social Link Profile
 
-This is a solution to the [Social Link Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+[Social Link Profile Solution](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ## Overview
+
+### Links
+
+- [Solution](https://github.com/Lokesh8055/social-link-profile)
+- [LiveSite](https://social-link-profile-lp.netlify.app)
 
 ### Screenshot
 
@@ -10,11 +15,6 @@ This is a solution to the [Social Link Profile challenge on Frontend Mentor](htt
 ![DesktopHover](./screenshot/desktopHover.jpg)
 ![Mobile](./screenshot/mobile.jpg)
 ![Tablet](./screenshot/tablet.jpg)
-
-### Links
-
-- [Solution](https://github.com/Lokesh8055/frontendmentor.io/tree/main/qr-code-component)
-- [LiveSite](https://qr-code-component-lp.netlify.app/)
 
 ## My process
 
